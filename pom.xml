@@ -65,7 +65,7 @@
                          
                        </dependency>
   
-                    </dependency>
+                    
                 </dependencies>
             </plugin>
         </plugins>
